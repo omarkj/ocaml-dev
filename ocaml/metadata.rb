@@ -1,0 +1,7 @@
+name             'ocaml'
+maintainer       'Omar Yasin'
+maintainer_email 'omarkj@gmail.com'
+license          'MIT'
+description      'Ocaml package'
+long_description 'Install and manage a ocaml development setup'
+version          '1.0.0'
