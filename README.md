@@ -23,9 +23,7 @@ Then `vagrant ssh` and get to work.
 
 # Acknowledgments
 
-Alisdair Sullivan for suggesting using Vagrant for dev stuff. He does it for
-[Erlang](https://github.com/talentdeficit/erlang-dev). Unlike him I am able to
-build Erlang on my machine.
+Alisdair Sullivan for suggesting using Vagrant for dev stuff.
 
 ## License
 
